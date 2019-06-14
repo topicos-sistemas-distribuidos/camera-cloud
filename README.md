@@ -1,6 +1,6 @@
 # camera-cloud
 
-## A) Configuração do Ambiente e desenvolvimento da aplicação alvo
+## A) Configuração do Ambiente e Desenvolvimento da Aplicação Alvo
 
 1. Instalação e configuração do servidor CAOS
 
@@ -19,7 +19,7 @@
 6. Execute as features da aplicação alvo
 
 
-## B) Features da aplicação Camera Cloud
+## B) Features da Aplicação Camera Cloud
 
 A aplicação Camera Cloud basicamente tira fotos e aplica filtros a essa foto. 
 
@@ -27,7 +27,7 @@ A aplicação Camera Cloud basicamente tira fotos e aplica filtros a essa foto.
 2. Aplicar filtro simples
 3. Aplicar filtro complexo
 
-## C) Testando a aplicação Alvo
+## C) Testando a Aplicação Alvo
 
 1. Resposta do Servidor Caos ao Filtro cartoonizerImage
 

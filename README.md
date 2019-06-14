@@ -24,15 +24,19 @@
 A aplicação Camera Cloud basicamente tira fotos e aplica filtros a essa foto. 
 
 1. Tirar foto
-2. Aplicar filtro simples
-3. Aplicar filtro complexo
+2. Aplicar filtro complexo
+3. Aplicar filtro simples
 
 ## C) Testando a Aplicação Alvo
 
-1. Resposta do Servidor Caos ao Filtro cartoonizerImage
+1. Na aplicação alvo (mobile) tire uma foto e aplique o filtro complexo
+
+2. Resposta do Servidor Caos ao Filtro cartoonizerImage
 
 ![printCaosCartoonizerGit](https://user-images.githubusercontent.com/3067971/59472171-fc4df100-8e13-11e9-8399-58d08b7fb6c5.png)
 
-2. Resposta do Servidor Caos ao Filtro mapTone
+3. Na aplicação alvo (mobile) tire uma foto e aplique o filtro simples
+
+4. Resposta do Servidor Caos ao Filtro mapTone
 
 ![printCaosMapToneGit](https://user-images.githubusercontent.com/3067971/59472172-fc4df100-8e13-11e9-9e6d-29cf07f844d5.png)
